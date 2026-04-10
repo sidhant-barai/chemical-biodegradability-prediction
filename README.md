@@ -34,5 +34,5 @@ My goal was to design, implement, and validate a machine learning pipeline in Py
 - **Techniques:** PCA, Random Forest, Cross-Validation, Z-Score Outlier Detection
 
 ## 📂 Repository Contents
-- `dm230118267.py`: Master Python script for the full ML pipeline.
+- `biodegradability_model.py`: Master Python script for the full ML pipeline.
 - `Result.pdf`: Comprehensive IEEE-formatted research report.
