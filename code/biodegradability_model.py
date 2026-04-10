@@ -13,7 +13,7 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 from sklearn.metrics import r2_score
 
 # Importing dataset as a csv file
-file_path = r"C:\Users\Asus\OneDrive\Desktop\MSc Robotics\Data Modelling and Machine Intelligence\Course Work\Python\Qsar_data.csv"
+file_path = r"Qsar_data.csv" # Update the location in " " based on where you have stored the QSAr dataset
 qsar_data = pd.read_csv(file_path)
 
 # Set up the matplotlib figure for a heatmap
