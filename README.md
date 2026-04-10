@@ -34,5 +34,6 @@ My goal was to design, implement, and validate a machine learning pipeline in Py
 - **Techniques:** PCA, Random Forest, Cross-Validation, Z-Score Outlier Detection
 
 ## 📂 Repository Contents
-- `biodegradability_model.py`: Master Python script for the full ML pipeline.
-- `Result.pdf`: Comprehensive IEEE-formatted research report.
+- **[code/](code/)**: Master Python script (`dm230118267.py`) optimized for relative path execution.
+- **[data/](data/)**: Curated QSAR dataset containing 1,055 chemical records and 41 descriptors.
+- **[results/](results/)**: Final IEEE research report, Confusion Matrix, PCA plots, and EDA heatmaps.
