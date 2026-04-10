@@ -35,4 +35,4 @@ My goal was to design, implement, and validate a machine learning pipeline in Py
 
 ## 📂 Repository Contents
 - `dm230118267.py`: Master Python script for the full ML pipeline.
-- `dm230118267.pdf`: Comprehensive IEEE-formatted research report.
+- `Result.pdf`: Comprehensive IEEE-formatted research report.
