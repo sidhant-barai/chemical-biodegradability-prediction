@@ -6,7 +6,7 @@ This project involves developing a predictive model to determine the biodegradab
 
 ---
 
-## 🚀 The Projhect Breakdown
+## 🚀 The Project Breakdown
 
 ### **Situation**
 Determining chemical biodegradability is a critical but resource-intensive process in environmental safety. I worked with a dataset of 1,055 chemicals, each featuring 41 distinct structural descriptors, to automate this assessment.
