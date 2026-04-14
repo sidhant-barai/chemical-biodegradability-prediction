@@ -24,7 +24,6 @@ My goal was to design, implement, and validate a machine learning pipeline in Py
 ### **Result**
 * Achieved a peak predictive accuracy of **81.1%** using the Random Forest Classifier.
 * Demonstrated that classification models significantly outperform regression for discrete environmental safety targets.
-* Produced a professional technical report following the **IEEE Transactions format**.
 
 ---
 
